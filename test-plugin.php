@@ -2,7 +2,7 @@
 /*
 Plugin Name: Test Plugin
 Description: A simple plugin for testing purposes.
-Version: 1.0
+Version: 2.0.0
 Author: Mohammad Wahid
 */
 
